@@ -9,8 +9,8 @@ EvolucionMedic S.R.L
 GUIA:
 DANIL ALVARO PACHECO CALLE
 💻 Stack Tecnológico
-EN DESARROLLO
-🗄️ Base de datos
-EN DESARROLLO
-🏗️ Arquitectura 
-EN DESARROLLO
+HTML5
+CSS
+
+🗄️ MySQL con Xammp
+🏗️ Arquitectura MVC
