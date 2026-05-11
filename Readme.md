@@ -1,1 +1,16 @@
-Prueba codigo
+📌 Información del equipo
+Hp-Forve
+EvolucionMedic S.R.L
+👥 Integrantes
+● MATIAS VALERO FERNANDEZ
+● JHONATAN TORREZ POCOMA
+● LUZ NAJHELY ZEGARRA APAZA
+● MARIA LIZ QUISPE MAMANI
+GUIA:
+DANIL ALVARO PACHECO CALLE
+💻 Stack Tecnológico
+EN DESARROLLO
+🗄️ Base de datos
+EN DESARROLLO
+🏗️ Arquitectura 
+EN DESARROLLO
