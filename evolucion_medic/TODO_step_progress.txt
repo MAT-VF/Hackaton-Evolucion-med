@@ -1,0 +1,11 @@
+Plan maestro completado parcialmente.
+
+Hecho:
+- Arreglado compras/compras.php (UI roto)
+- Hecho guardado correcto en compras/guardar_compra.php (prepared statements + transacción + bug stock)
+
+Pendiente:
+- Mejorar estilo y layout (dashboard/login/sidebar/cards/tablas/paneles) en TODAS las pantallas.
+- Reescribir/estandarizar productos/proveedores/inventario/detalle_compra/logout si están vacíos/rotos.
+- Añadir componentes reutilizables (header/sidebar) para coherencia.
+
